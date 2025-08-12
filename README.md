@@ -49,11 +49,3 @@ or just run the coderunner icon in the top right corner
 
 ### note: that please replace the dll files with the static files in the lib folder
 
-
-
-git init
-git add .
-git commit -m "setup for openGL in vsCode using c++"
-git branch -M main
-git remote add origin https://github.com/HariomRajChauhan/setup_openGL_in_VsCode.git
-git push -u origin main
